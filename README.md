@@ -23,9 +23,6 @@ HTML, CSS, JavaScript
 
 The main goal of this project is to spread awareness about phishing attacks and help users stay safe online.
 
-📸 Screenshot
-
-💡 Future Improvements
 
 Integrate machine learning for advanced phishing detection
 
