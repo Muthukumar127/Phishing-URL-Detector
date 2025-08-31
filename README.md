@@ -1,4 +1,4 @@
-#🔍 Phishing URL Detector#
+🔍 Phishing URL Detector
 
 A simple yet powerful web-based tool to detect suspicious or phishing URLs.
 This project analyzes the structure of a URL and flags potential threats such as too many subdomains, unusual characters, or patterns often seen in phishing attacks.
